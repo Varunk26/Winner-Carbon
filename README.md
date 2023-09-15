@@ -1,78 +1,32 @@
-# 🏗 Scaffold-ETH 2
+# 🏗 Winner Carbon (Work in progress)
 
-<h4 align="center">
-  <a href="https://docs.scaffoldeth.io">Documentation</a> |
-  <a href="https://scaffoldeth.io">Website</a>
-</h4>
+<h3>Winner Carbon - Building a Blockchain-Powered Parallel Economy to Foster Carbon-Negative Behavior</h3>
 
-🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
-⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
+In a world grappling with heightened environmental concerns, the emergence of Winner Carbon offers a pioneering solution that seeks to revolutionize economic paradigms while catalyzing positive change through the innovative concept of "Incentivizing Carbon Negative Behavior."
 
-- ✅ **Contract Hot Reload**: Your frontend auto-adapts to your smart contract as you edit it.
-- 🔥 **Burner Wallet & Local Faucet**: Quickly test your application with a burner wallet and local faucet.
-- 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
+<h5>Recognizing the Imperative for Change: Addressing Economic System Flaws</h5>
 
-![Debug Contracts tab](https://github.com/scaffold-eth/scaffold-eth-2/assets/55535804/1171422a-0ce4-4203-bcd4-d2d1941d198b)
+Our present economic structure, while effective in addressing historical challenges, faces new and urgent issues that demand thoughtful intervention. A paramount issue is the absence of a comprehensive full-cost accounting system that factors in the real cost of actions like tree planting or waste disposal. Importantly, the current economic framework often overlooks carbon-negative behaviors. The existing incentives inadvertently promote unsustainable practices such as fast fashion, resource overexploitation, and the production of non-biodegradable goods, rather than fostering behaviors that support a circular economy, water conservation, soil preservation, and waste reduction.
 
-## Requirements
+<h5>Pioneering the Parallel Economy Approach</h5>
 
-Before you begin, you need to install the following tools:
+Winner Carbon arises from the understanding that this imbalance needs redressal. The core objective of this project is to establish a parallel economy, leveraging the capabilities of blockchain and cryptocurrency networks, to incentivize and reward carbon-negative actions. This innovative framework will extend its rewards to individuals, businesses, projects, and institutions that contribute toward environmental betterment and societal advancement.
 
-- [Node (v18 LTS)](https://nodejs.org/en/download/)
-- Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
-- [Git](https://git-scm.com/downloads)
+<h5>Prototype of the Winner Carbon Protocol</h5>
 
-## Quickstart
+At the heart of Winner Carbon lies a sophisticated protocol that forges a collaborative community comprising diverse stakeholders - ranging from eco-conscious individuals to forward-thinking enterprises. Consider an individual like Bretta Moonberg, a prime member of this dynamic ecosystem. As a staunch advocate for climate-conscious living, she consistently embraces practices that reduce waste and minimize her carbon footprint.
 
-To get started with Scaffold-ETH 2, follow the steps below:
+Bretta's interaction with the Winner Carbon protocol begins with the acquisition of a Carbon Negative NFT (CNFT), obtained through the purchase of a reusable coffee mug. With her CNFT in hand, she engages with participating entities, such as local coffee shops. Her eco-friendly decision to use her reusable mug, shunning disposable cups, triggers a carbon-negative action. This action is meticulously tracked by the protocol, which rewards her with the native CTN token.
 
-1. Clone this repo & install dependencies
+With subsequent visits, Bretta's consistent preference for her reusable mug garners CTN tokens, offering both intrinsic value and practical utility within the ecosystem. The protocol's decentralized application (DApp) seamlessly amalgamates carbon-negative actions with tangible rewards, facilitating an ongoing cycle of positive transformation.
 
-```
-git clone https://github.com/scaffold-eth/scaffold-eth-2.git
-cd scaffold-eth-2
-yarn install
-```
+<h5>Visualizing Triumph: Celebrating Carbon-Negative Initiatives</h5>
 
-2. Run a local network in the first terminal:
+Through the Winner Carbon DApp, Bretta's actions and rewards find clear visibility. She accumulates CTN tokens as emblematic of her dedication to a carbon-negative lifestyle. As she perpetually makes ecologically responsible choices, her CTN token count grows, symbolizing her tangible influence on both environmental conservation and the parallel economy.
 
-```
-yarn chain
-```
+<h5>In Conclusion: Propelling Environmental Sustainability Forward</h5>
 
-This command starts a local Ethereum network using Hardhat. The network runs on your local machine and can be used for testing and development. You can customize the network configuration in `hardhat.config.ts`.
+Winner Carbon serves as a testament to the metamorphic capabilities of blockchain technology and cryptocurrency networks. By fostering carbon-negative actions within a parallel economy, this endeavor confronts pressing global challenges, while aligning incentives with a sustainable future. The protocol's NFT-based tracking system and CTN token reward mechanism underscore the fusion of ingenious technology and environmental accountability.
 
-3. On a second terminal, deploy the test contract:
-
-```
-yarn deploy
-```
-
-This command deploys a test smart contract to the local network. The contract is located in `packages/hardhat/contracts` and can be modified to suit your needs. The `yarn deploy` command uses the deploy script located in `packages/hardhat/deploy` to deploy the contract to the network. You can also customize the deploy script.
-
-4. On a third terminal, start your NextJS app:
-
-```
-yarn start
-```
-
-Visit your app on: `http://localhost:3000`. You can interact with your smart contract using the contract component or the example ui in the frontend. You can tweak the app config in `packages/nextjs/scaffold.config.ts`.
-
-Run smart contract test with `yarn hardhat:test`
-
-- Edit your smart contract `YourContract.sol` in `packages/hardhat/contracts`
-- Edit your frontend in `packages/nextjs/pages`
-- Edit your deployment scripts in `packages/hardhat/deploy`
-
-## Documentation
-
-Visit our [docs](https://docs.scaffoldeth.io) to learn how to start building with Scaffold-ETH 2.
-
-To know more about its features, check out our [website](https://scaffoldeth.io).
-
-## Contributing to Scaffold-ETH 2
-
-We welcome contributions to Scaffold-ETH 2!
-
-Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
+As Winner Carbon continues its evolution, it holds the potential to steer systemic transformation, ushering in an epoch where economic actions seamlessly interlace with ecological mindfulness. Built upon the Ethereum blockchain, Winner Carbon propels a pioneering march towards harmonizing society, economy, and the environment, championing a future of symbiotic coexistence.
