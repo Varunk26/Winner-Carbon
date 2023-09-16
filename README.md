@@ -2,7 +2,7 @@
 
 <h3>Winner Carbon - Building a Blockchain-Powered Parallel Economy to Foster Carbon-Negative Behavior</h3>
 
-Winner carbon uses a series of smart contracts to incentivize carbon negative behavior. Vide - https://www.youtube.com/watch?v=CNS1j-SWHsE
+Winner carbon uses a series of smart contracts to incentivize carbon negative behavior. Vide0 - https://www.youtube.com/watch?v=CNS1j-SWHsE
 
 In a world grappling with heightened environmental concerns, the emergence of Winner Carbon offers a pioneering solution that seeks to revolutionize economic paradigms while catalyzing positive change through the innovative concept of "Incentivizing Carbon Negative Behavior."
 
